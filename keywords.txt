@@ -1,0 +1,7 @@
+BME280_I2C	KEYWORD1
+init	KEYWORD2
+getPressure	KEYWORD2
+getTemperature	KEYWORD2
+getHumidity     KEYWORD2
+setSampling     KEYWORD2
+temperature	KEYWORD2
